@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = qpeschard49@gmail.com
+	name = Quentin Peschard
